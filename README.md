@@ -20,3 +20,9 @@ IDrop — платформа для покупки, продажи и обмен
 - [project-notes.md](./project-notes.md) — заметки по проекту
 - [api-plan.md](./api-plan.md) — план API
 - [git-conflict.md](./git-conflict.md) — описание конфликта
+
+## Конкуренты
+- Case-battle — кейс-баттлы и торговля
+- TopSkin — маркетплейс скинов
+- Keyser — кейсы и апгрейды
+- Upgrader — апгрейд скинов
