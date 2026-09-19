@@ -1,6 +1,10 @@
 # IDrop — сервис по скинам CS2
 
+<<<<<<< HEAD
 IDrop — маркетплейс скинов CS2 с кейс-баттлами.
+=======
+IDrop — сервис для торговли скинами CS2 и участия в баттлах.
+>>>>>>> feature/readme-description
 Основные конкуренты: Case-battle, TopSkin, Keyser, Upgrader.
 
 ## Описание проекта
