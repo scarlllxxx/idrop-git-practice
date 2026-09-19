@@ -30,3 +30,6 @@ cat > api-plan.md << 'EOF'
 ### Battles
 - POST /api/battles/create — создать кейс-баттл
 - POST /api/battles/{id}/join — присоединиться
+
+### WebSocket (план)
+- ws://api.idrop/battles/{id} — live-обновления баттла
