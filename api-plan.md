@@ -33,3 +33,7 @@ cat > api-plan.md << 'EOF'
 
 ### WebSocket (план)
 - ws://api.idrop/battles/{id} — live-обновления баттла
+
+### Battles — расширение
+- POST /api/battles/{id}/cancel — отменить баттл
+- GET /api/battles/history — история баттлов
